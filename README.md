@@ -1,3 +1,4 @@
 # Gene_Portfolio
 Resume Site
-<h1>LEt's check this out</h1>
+<h1>Let's check this out</h1>
+<h2>Did it work?</h2>
